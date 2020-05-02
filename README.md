@@ -7,17 +7,15 @@ CSS
 
 Javascript
 
-AngularJS
+[Material Design Lite](https://getmdl.io/components/index.html)
 
-Firebase
+TODO: Firebase
 
-Google Web Speech API
+TODO: Google Web Speech API
 
-API.AI
+TODO: API.AI
 
 [ResponsiveVoice.JS](https://responsivevoice.org/api/)
-
-NodeJS
 
 ExpressJS
 
